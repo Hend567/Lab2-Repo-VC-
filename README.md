@@ -25,5 +25,5 @@ git push orign --delete test  # Then delete remotely
 ## Lab2-task2
 
 ```bash
-![lab2](https://i.imgur.com/qSGG6YM.png)
+![lab2](https://imgur.com/hwwzRqu)
 
