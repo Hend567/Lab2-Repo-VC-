@@ -11,4 +11,4 @@ const displaymassage =function(){
     }
 
 displaymassage();
-console.log(typeof massage) ;
+console.log(typeof massage) 
