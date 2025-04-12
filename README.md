@@ -25,4 +25,4 @@ git push orign --delete test  # Then delete remotely
 ## lab2
 
 ```bash
-![lab2]("C:\Users\Dell\Downloads\lab2.png")
+[lab2]("C:\Users\Dell\Downloads\lab2.png")
