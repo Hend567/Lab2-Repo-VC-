@@ -22,7 +22,7 @@ git branch -d test                  # Delete locally first
 git push orign --delete test  # Then delete remotely
 ```
 
-## git logo
+## Lab2-task2
 
 ```bash
-![Git logo]("https://www.pinterest.com/pin/67765169387800507/")
+![Lab2-task2]("https://imgur.com/a/xdwfsSI")
