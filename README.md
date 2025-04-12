@@ -21,3 +21,8 @@ git push orign --delete test
 git branch -d test                  # Delete locally first
 git push orign --delete test  # Then delete remotely
 ```
+
+## lab2
+
+```bash
+![lab2]("C:\Users\Dell\Downloads\lab2.png")
