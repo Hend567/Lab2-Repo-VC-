@@ -22,9 +22,6 @@ git branch -d test                  # Delete locally first
 git push orign --delete test  # Then delete remotely
 ```
 
-## Lab2-task2
+## Lab2-task2 - Version Control Lab
 
-```bash
 ![Version Control Lab Diagram](images/lab2.png)
-
-
